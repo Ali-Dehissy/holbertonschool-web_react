@@ -1,1 +1,1 @@
-## react_redux_action_creator_normalizr
+# React Redux action creator+normalizr
